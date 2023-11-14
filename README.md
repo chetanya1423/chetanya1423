@@ -1,4 +1,5 @@
 ### Hello, I am Chetanya Pathak 👋
+<h1>Hello, I am Chetanya Pathak 👋</h1>
 
 <!--
 **chetanya1423/chetanya1423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
