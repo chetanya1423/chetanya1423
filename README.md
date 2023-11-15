@@ -7,7 +7,7 @@
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=dhruv9316.dhruv9316)
-[![Github](https://img.shields.io/github/followers/dhruv9316?label=Follow&style=social)](https://github.com/dhruv9316)
+[![Github](https://img.shields.io/github/followers/dhruv9316?label=Follow&style=social)](https://github.com/chetanya1423)
 <a href="https://github.com/dhruv9316/stargazers"><img src="https://img.shields.io/github/stars/dhruv9316" alt="Stars Badge"/></a>
 
 <div align="center">
