@@ -23,7 +23,7 @@
 ## 💳 Github Profile Summary Card
 <br>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruv9316&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chetanya1423&theme=github_dark"/>
 </p>
 <hr>
 
@@ -33,9 +33,9 @@
 ## 📟 GitHub Stats
 <br>
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhruv9316&show_icons=true&theme=vision-friendly-dark" /> 
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv9316&show_icons=true&theme=vision-friendly-dark" /> 
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv9316&layout=compact&show_icons=true&theme=vision-friendly-dark" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chetanya1423&show_icons=true&theme=vision-friendly-dark" /> 
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chetanya1423&show_icons=true&theme=vision-friendly-dark" /> 
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanya1423&layout=compact&show_icons=true&theme=vision-friendly-dark" />
 
 </p>
 <hr>
