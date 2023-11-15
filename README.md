@@ -105,12 +105,20 @@
 <!-- 	<a href="https://m.facebook.com/profile.php/?id=100009842225188">
 		<img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
 	</a> -->
-	<a href="https://instagram.com/chetanya_pathak?igshid=MXJoMG1lcTBiNGUzYw==">
+
+ <a href="https://www.instagram.com/dhruv.9316">
+		<img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+	</a>
+	<a href="mailto:vdhruv876@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+	</a>
+
+<!--	<a href="https://instagram.com/chetanya_pathak?igshid=MXJoMG1lcTBiNGUzYw==">
 		<img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 	</a>
 	<a href="mailto:chetanyapathak6@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
-	</a>
+	</a>  -->
 </p>
 
 <div align="center">
